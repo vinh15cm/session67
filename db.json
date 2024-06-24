@@ -1,0 +1,144 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "nameBook": "Harry Potter và Hòn đá phù thủy",
+      "borrowerName": "Nguyễn Văn A",
+      "borrowerDate": "10/04/2024",
+      "returnDate": "17/05/2024"
+    },
+    {
+      "id": 2,
+      "nameBook": "Đắc Nhân Tâm",
+      "borrowerName": "Trần Thị B",
+      "borrowerDate": "12/04/2024",
+      "returnDate": "18/05/2024"
+    },
+    {
+      "id": 3,
+      "nameBook": "Lập Trình Python",
+      "borrowerName": "Lê Văn C",
+      "borrowerDate": "14/04/2024",
+      "returnDate": "20/05/2024"
+    },
+    {
+      "id": 4,
+      "nameBook": "Toán Cao Cấp",
+      "borrowerName": "Phạm Thị D",
+      "borrowerDate": "16/04/2024",
+      "returnDate": "22/05/2024"
+    },
+    {
+      "id": 5,
+      "nameBook": "Khoa Học Máy Tính",
+      "borrowerName": "Nguyễn Văn E",
+      "borrowerDate": "18/04/2024",
+      "returnDate": "24/05/2024"
+    },
+    {
+      "id": 6,
+      "nameBook": "Lập Trình C++",
+      "borrowerName": "Trần Thị F",
+      "borrowerDate": "20/04/2024",
+      "returnDate": "26/05/2024"
+    },
+    {
+      "id": 7,
+      "nameBook": "Giải Tích 1",
+      "borrowerName": "Lê Văn G",
+      "borrowerDate": "22/04/2024",
+      "returnDate": "28/05/2024"
+    },
+    {
+      "id": 8,
+      "nameBook": "Hóa Học Cơ Bản",
+      "borrowerName": "Phạm Thị H",
+      "borrowerDate": "24/04/2024",
+      "returnDate": "30/05/2024"
+    },
+    {
+      "id": 9,
+      "nameBook": "Vật Lý Đại Cương",
+      "borrowerName": "Nguyễn Văn I",
+      "borrowerDate": "26/04/2024",
+      "returnDate": "02/06/2024"
+    },
+    {
+      "id": 10,
+      "nameBook": "Xác Suất Thống Kê",
+      "borrowerName": "Trần Thị J",
+      "borrowerDate": "28/04/2024",
+      "returnDate": "04/06/2024"
+    },
+    {
+      "id": 11,
+      "nameBook": "Giải Tích 2",
+      "borrowerName": "Lê Văn K",
+      "borrowerDate": "30/04/2024",
+      "returnDate": "06/06/2024"
+    },
+    {
+      "id": 12,
+      "nameBook": "Cấu Trúc Dữ Liệu",
+      "borrowerName": "Phạm Thị L",
+      "borrowerDate": "02/05/2024",
+      "returnDate": "08/06/2024"
+    },
+    {
+      "id": 13,
+      "nameBook": "Lập Trình Java",
+      "borrowerName": "Nguyễn Văn M",
+      "borrowerDate": "04/05/2024",
+      "returnDate": "10/06/2024"
+    },
+    {
+      "id": 14,
+      "nameBook": "Lịch Sử Việt Nam",
+      "borrowerName": "Trần Thị N",
+      "borrowerDate": "06/05/2024",
+      "returnDate": "12/06/2024"
+    },
+    {
+      "id": 15,
+      "nameBook": "Điện Tử Cơ Bản",
+      "borrowerName": "Lê Văn O",
+      "borrowerDate": "08/05/2024",
+      "returnDate": "14/06/2024"
+    },
+    {
+      "id": 16,
+      "nameBook": "Hóa Học Vô Cơ",
+      "borrowerName": "Phạm Thị P",
+      "borrowerDate": "10/05/2024",
+      "returnDate": "16/06/2024"
+    },
+    {
+      "id": 17,
+      "nameBook": "Sinh Học Phát Triển",
+      "borrowerName": "Nguyễn Văn Q",
+      "borrowerDate": "12/05/2024",
+      "returnDate": "18/06/2024"
+    },
+    {
+      "id": 18,
+      "nameBook": "Văn Học Việt Nam",
+      "borrowerName": "Trần Thị R",
+      "borrowerDate": "14/05/2024",
+      "returnDate": "20/06/2024"
+    },
+    {
+      "id": 19,
+      "nameBook": "Kỹ Thuật Điện",
+      "borrowerName": "Lê Văn S",
+      "borrowerDate": "16/05/2024",
+      "returnDate": "22/06/2024"
+    },
+    {
+      "id": 20,
+      "nameBook": "Kinh Tế Học",
+      "borrowerName": "Phạm Thị T",
+      "borrowerDate": "18/05/2024",
+      "returnDate": "24/06/2024"
+    }
+  ]
+}
